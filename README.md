@@ -13,7 +13,7 @@
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
 
-Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
+Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 
 <!-- začetek bloka z izvorno kodo -->
 ```
